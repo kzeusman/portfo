@@ -37,7 +37,7 @@ conda-build==3.18.9
 conda-package-handling==1.6.0
 conda-verify==3.4.2
 contextlib2==0.6.0
-cryptography==43.0.1
+cryptography==44.0.1
 cycler==0.10.0
 Cython==0.29.13
 cytoolz==0.10.0
@@ -46,7 +46,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 distlib==0.3.1
 distributed==2021.10.0
-Django==4.2.18
+Django==4.2.20
 docutils==0.15.2
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -74,7 +74,7 @@ isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==3.1.5
+Jinja2==3.1.6
 joblib==1.2.0
 json5==0.8.5
 jsonschema==3.0.2
