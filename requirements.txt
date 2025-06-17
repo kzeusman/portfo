@@ -46,7 +46,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 distlib==0.3.1
 distributed==2021.10.0
-Django==4.2.20
+Django==4.2.22
 docutils==0.15.2
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -167,7 +167,7 @@ pyzmq==18.1.0
 QtAwesome==0.6.0
 qtconsole==4.5.5
 QtPy==1.9.0
-requests==2.32.0
+requests==2.32.4
 rope==0.14.0
 ruamel-yaml==0.15.46
 scikit-image==0.15.0
