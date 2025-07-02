@@ -208,7 +208,7 @@ tqdm==4.66.3
 traitlets==4.3.3
 translate==3.5.0
 unicodecsv==0.14.1
-urllib3==1.26.19
+urllib3==2.5.0
 virtualenv==20.26.6
 wcwidth==0.1.7
 webencodings==0.5.1
