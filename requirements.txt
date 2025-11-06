@@ -46,7 +46,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 distlib==0.3.1
 distributed==2021.10.0
-Django==4.2.22
+Django==4.2.26
 docutils==0.15.2
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -82,7 +82,7 @@ jupyter==1.0.0
 jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.11.0
-jupyterlab==3.6.8
+jupyterlab==4.4.8
 jupyterlab-server==1.0.6
 keyring==18.0.0
 kiwisolver==1.1.0
